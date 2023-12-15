@@ -3,7 +3,7 @@ cd tools
 
 ESP_IDF_VERSION="v4.4.6"
 MATTER_VERSION="221e466"
-ESP_MATTER_VERSION="72b0f26"
+ESP_MATTER_VERSION="96dc30b"
 ARDUINO_ESP32_VERSION="2.0.14"
 
 git clone --recursive https://github.com/espressif/esp-idf
